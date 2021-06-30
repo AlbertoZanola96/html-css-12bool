@@ -1,0 +1,15 @@
+.col-xs-1,
+.col-xs-2,
+.col-xs-5,
+.col-xs-12 {
+    background-color: #006CFA;
+    height: 50px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: middle;
+    border: 1px solid white;
+}
+
+
+

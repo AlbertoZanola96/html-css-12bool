@@ -57,9 +57,9 @@
 .col-xs-offset-12 {margin-left: calc((100% / 12) * 12); }
 
 
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 576px) {
     .container {
-        width: 737px;
+        width: 546px;
     }
 
     .col-sm {
@@ -94,9 +94,9 @@
     .col-sm-offset-12 {margin-left: calc((100% / 12) * 12); }
 }
 
-@media screen and (min-width: 991px) {
+@media screen and (min-width: 768px) {
     .container {
-        width: 961px;
+        width: 738px;
     }
 
     .col-md {
@@ -133,7 +133,7 @@
 
 @media screen and (min-width: 992px) {
     .container {
-        width: 961px;
+        width: 100%;
     }
 
     .col-lg {
