@@ -19,6 +19,10 @@
     border: 1px solid white;
 }
 
+.spazio {
+    padding: 0 10px;
+}
+
 .green {
     background-color: #05E165;
     height: 30px;
