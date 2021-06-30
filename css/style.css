@@ -1,6 +1,8 @@
 .col-xs-1,
 .col-xs-2,
 .col-xs-5,
+.col-xs-6,
+.col-xs-8,
 .col-xs-12 {
     background-color: #006CFA;
     height: 50px;
@@ -11,5 +13,12 @@
     border: 1px solid white;
 }
 
-
+.green {
+    background-color: #05E165;
+    height: 30px;
+    margin: 10px auto;
+    border: 1px solid #006CFA;
+    line-height: 30px;
+    vertical-align: middle;
+}
 
